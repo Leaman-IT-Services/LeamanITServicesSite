@@ -28,7 +28,7 @@ twitter_username: jekyllrb
 github_username:  Leaman-IT-Services
 
 # Build settings
-theme: minima
+remote theme: daattali/beautiful-jekyll@5.0.0
 plugins:
   - jekyll-feed
 
