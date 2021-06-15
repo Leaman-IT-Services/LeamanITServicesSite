@@ -21,7 +21,7 @@
 title: Leaman IT Services Blog
 email: jason@leaman-it-services.co.uk
 description: >- # this means to ignore newlines until "baseurl:"
-This is the description for the new jekyll / github website. 
+  this is the new website from using jekyll and giuthub.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "leaman-it-services.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
